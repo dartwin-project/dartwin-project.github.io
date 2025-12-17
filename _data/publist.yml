@@ -1,0 +1,21 @@
+- title: "DarTwin made precise by SysML v2 – An Experiment"
+  image: DarTwin-SysML.png
+  description: This paper explores the integration of the DarTwin notation for Digital Twin (DT) evolution with SysML v2. The authors developed DarTwin DSL, a domain-specific language formalizing DarTwin within SysML v2, aiming to facilitate the application of DarTwin's evolution templates across SysML v2 tools. The study also highlights limitations in the current graphical notation capabilities of SysML v2 tools. This work contributes to Model-Driven Engineering for Digital Twins by combining SysML v2's new features with systematic DT evolution management.
+  authors: Øystein Haugen, Stefan Klikovits, Martin Arthur Andersen, Jonathan Beaulieu, Francis Bordeleau, Joachim Denil, Joost Mertens
+  link:
+    url: https://arxiv.org/abs/2510.12478
+    display: arXiv (2025)
+  highlight: 1
+  news1: <a style="color:#FF0000">Best Paper Award at SAM 2025</a>
+  news2: Presented at the 13th System Analysis and Modeling Conference (SAM 2025), October 2025
+
+- title: "Continuous Evolution of Digital Twins using the DarTwin Notation"
+  image: sosym_image.webp
+  description: This article addresses the challenges in creating and maintaining digital twins (DTs), particularly focusing on their continuous evolution in response to changes in systems, user needs, and environments. The authors introduce the DarTwin Notation, a visual notation that facilitates reasoning about twin systems, their purposes, properties, and implementations, along with a set of architectural transformations that describe the evolution of DT systems.
+  authors: Joost Mertens, Stefan Klikovits, Francis Bordeleau, Joachim Denil, Øystein Haugen
+  link:
+    url: https://link.springer.com/article/10.1007/s10270-024-01216-7
+    display: Software and Systems Modeling (2024)
+  highlight: 1
+  news1:
+  news2: Published in Software and Systems Modeling, November 2024

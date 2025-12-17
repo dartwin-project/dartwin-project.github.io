@@ -1,0 +1,38 @@
+- name: Stefan Klikovits
+  photo: Stefan_Klikovits.jpg
+  info: Co-Principal Investigator, Post-doctoral Researcher, JKU Linz
+  email: stefan.klikovits@jku.at
+  number_educ: 4
+  education1: Post-doctoral researcher at Johannes Kepler University Linz
+  education2: PhD, CERN - European Organization for Nuclear Research, Geneva, Switzerland
+  education3: Expertise in model-driven digital twin engineering, quality assurance, and testing of complex systems
+  education4: Co-organizer of the Engineerable Digital Twins Community
+
+- name: Joachim Denil
+  photo: Joachim-Denil.webp
+  info: Co-Principal Investigator Professor, University of Antwerp
+  email: joachim.denil@uantwerpen.be
+  number_educ: 3
+  education1: Associate Professor at University of Antwerp, Cosys-Lab - Electronics-ICT
+  education2: Member of the Flanders Make research network
+  education3: Expertise in model validation, validity frames, simulation workflows, and co-simulation
+
+
+- name: Manuel Wimmer
+  photo: Manuel_Wimmer.jpg
+  info: Project Partner, Professor, JKU Linz
+  email: manuel.wimmer@jku.at
+  number_educ: 3
+  education1: Professor at Johannes Kepler University Linz
+  education2: Over two decades of experience in modeling, metamodeling, and model transformations
+  education3: Leading researcher in model-driven engineering and search-based software engineering
+
+
+- name: Joost Mertens
+  photo: Joost_Mertens.jpg
+  info: Post-doctoral Researcher, University of Antwerp
+  email: joost.mertens@uantwerpen.be
+  number_educ: 3
+  education1: Post-doctoral researcher at University of Antwerp
+  education2: Focus on digital-twin co-evolution and continuous validation
+  education3: Contributor to the DarTwin notation for continuous evolution of digital twins

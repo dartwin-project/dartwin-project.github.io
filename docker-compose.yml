@@ -1,0 +1,19 @@
+services:
+  jekyll:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    platform: linux/amd64
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/srv/jekyll
+      - jekyll_cache:/usr/local/bundle
+    environment:
+      - JEKYLL_ENV=development
+      - BUNDLE_PATH=/usr/local/bundle
+    command: sh -c "bundle check || bundle install && jekyll serve --host 0.0.0.0 --force_polling --livereload"
+
+volumes:
+  jekyll_cache:
+
