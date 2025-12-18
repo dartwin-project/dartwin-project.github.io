@@ -60,12 +60,12 @@ This project is funded by the [FWF-FWO WEAVE](https://www.fwf.ac.at/en/research-
   <div class="row">
       <div class="col col-md-6" style="display:flex;align-items:center;justify-content:center;">
         <a href="https://se.jku.at/en/" target="_blank" rel="noopener" style="display:flex;align-items:center;justify-content:center;width:100%;">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BISE_JKU.png" alt="BISE JKU" style="max-width:100%;height:auto;object-fit:contain;">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BISE_JKU.png" alt="BISE JKU" style="max-height:60px;max-width:100%;height:auto;object-fit:contain;">
         </a>
       </div>
       <div class="col col-md-6" style="display:flex;align-items:center;justify-content:center;">
         <a href="https://www.uantwerpen.be/en/research-groups/cosys-lab/" target="_blank" rel="noopener" style="display:flex;align-items:center;justify-content:center;width:100%;">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CosysLab_logo.png" alt="Cosys-Lab – Electronics-ICT" style="max-width:100%;height:auto;object-fit:contain;">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CosysLab_logo.png" alt="Cosys-Lab – Electronics-ICT" style="max-height:60px;max-width:100%;height:auto;object-fit:contain;">
         </a>
       </div>    </div><!-- row -->
 </div>
