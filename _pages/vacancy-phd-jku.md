@@ -66,6 +66,8 @@ The position is available immediately and will remain open until filled. The PhD
 
 For more information about our research, please visit our [research page]({{ site.url }}{{ site.baseurl }}/research/) or contact us directly.
 
+We actively foster a diverse, inclusive, and respectful workplace. We warmly welcome applications from women, ethnic minorities, persons with disabilities, and people of all sexual orientations and gender identities.
+
 ---
 
 [← Back to all vacancies]({{ site.url }}{{ site.baseurl }}/vacancies)
