@@ -75,7 +75,7 @@ This project is funded by the [FWF-FWO WEAVE](https://www.fwf.ac.at/en/research-
 The DarTwin project is led by **Stefan Klikovits** (Principal Investigator, JKU), who brings extensive expertise in model-driven digital twin engineering, quality assurance, and testing of complex systems. **Manuel Wimmer** (Project Partner, JKU) contributes over two decades of experience in modeling, metamodeling, and model transformations. **Joachim Denil** (Associate Professor, University of Antwerp) provides expertise in model validation, validity frames, and simulation workflows. **Joost Mertens** (Post-doctoral Researcher, University of Antwerp) focuses on digital-twin co-evolution and continuous validation, with recent contributions to the DarTwin notation.
 
 
-**We are looking for passionate researchers, PhD students, and Master students to join the team** [(more info)](/openings) **!**
+**We are looking for passionate researchers, PhD students, and Master students to join the team** [(more info)](/vacancies) **!**
 
 
 ## Funding & Partners
