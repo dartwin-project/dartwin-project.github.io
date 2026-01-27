@@ -18,7 +18,6 @@ DarTwin Project - Johannes Kepler University (JKU) Linz, Austria
 
 We are seeking a highly motivated PhD student to join the DarTwin project at Johannes Kepler University Linz. The successful candidate will:
 
-- Conduct research in condensed matter physics, focusing on quantum materials and experimental techniques
  - Conduct research on Digital Twins, model-driven engineering, computational modelling, and simulation methods
  - Develop and apply modelling workflows, simulation pipelines, and data-driven analysis techniques
  - Publish and present scientific results in journals and at conferences
@@ -60,7 +59,7 @@ Please include:
 
 ## Additional Information
 
-This position is part of the DarTwin project, a collaborative research initiative between Johannes Kepler University Linz and the University of Antwerp. The project focuses on advancing our understanding of quantum materials through innovative experimental approaches.
+This position is part of the DarTwin project, a collaborative research initiative between Johannes Kepler University Linz and the University of Antwerp. 
 
 The position is available immediately and will remain open until filled. The PhD program typically takes 4 years to complete.
 

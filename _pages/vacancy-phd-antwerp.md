@@ -57,7 +57,7 @@ Please include:
 
 ## Additional Information
 
-This position is part of the DarTwin project, a collaborative research initiative between the University of Antwerp and Johannes Kepler University Linz. The project focuses on advancing our understanding of quantum materials through innovative experimental approaches.
+This position is part of the DarTwin project, a collaborative research initiative between the University of Antwerp and Johannes Kepler University Linz. 
 
 The position is available immediately and will remain open until filled. The PhD program typically takes 4 years to complete.
 

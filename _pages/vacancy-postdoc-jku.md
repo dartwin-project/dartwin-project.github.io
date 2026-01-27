@@ -58,7 +58,7 @@ Please include:
 
 ## Additional Information
 
-This position is part of the DarTwin project, a collaborative research initiative between Johannes Kepler University Linz and the University of Antwerp. The project focuses on advancing our understanding of quantum materials through innovative experimental approaches.
+This position is part of the DarTwin project, a collaborative research initiative between Johannes Kepler University Linz and the University of Antwerp. 
 
 The position is available immediately and will remain open until filled. We especially welcome postdocs with fellowships and are happy to support fellowship applications.
 
