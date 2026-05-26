@@ -52,7 +52,9 @@ Our project addresses a critical challenge: **the systematic evolution of digita
 </div> -->
 
 
-This project is funded by the [FWF-FWO WEAVE](https://www.fwf.ac.at/en/research-funding/fwf-programmes/international-programmes/weave/) program, fostering international collaboration between Austria and Belgium. Our work contributes to advancing the state of the art in digital twin engineering, model-driven engineering, and cyber-physical systems.
+This project is funded by the [FWF-FWO WEAVE](https://www.fwf.ac.at/en/research-radar/10.55776/PIN1684325) program, fostering international collaboration between Austria and Belgium. Our work contributes to advancing the state of the art in digital twin engineering, model-driven engineering, and cyber-physical systems.
+
+This research was funded in whole or in part by the Austrian Science Fund (FWF) [10.55776/PIN1684325](https://doi.org/10.55776/PIN1684325). 
 
 ### Project Team
 
@@ -75,7 +77,7 @@ This project is funded by the [FWF-FWO WEAVE](https://www.fwf.ac.at/en/research-
 The DarTwin project is led by **Stefan Klikovits** (Principal Investigator, JKU), who brings extensive expertise in model-driven digital twin engineering, quality assurance, and testing of complex systems. **Manuel Wimmer** (Project Partner, JKU) contributes over two decades of experience in modeling, metamodeling, and model transformations. **Joachim Denil** (Associate Professor, University of Antwerp) provides expertise in model validation, validity frames, and simulation workflows. **Joost Mertens** (Post-doctoral Researcher, University of Antwerp) focuses on digital-twin co-evolution and continuous validation, with recent contributions to the DarTwin notation.
 
 
-**We are looking for passionate researchers, PhD students, and Master students to join the team** [(more info)](/vacancies) **!**
+<!-- **We are looking for passionate researchers, PhD students, and Master students to join the team** [(more info)](/vacancies) **!** -->
 
 
 ## Funding & Partners
